@@ -1,0 +1,2 @@
+# Building-a-Generative-AI-Chatbot-with-Ollama-API-in-Python
+Generative AI has moved far beyond academic research — it is now an integral part of business automation, customer support, marketing content creation, data analysis, and product innovation. We’ll walk through a Python-based integration with Ollama’s API to create a chatbot-like interaction, and we’ll explore the available modes and use cases.
